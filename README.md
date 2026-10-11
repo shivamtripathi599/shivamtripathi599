@@ -2,24 +2,20 @@
 
 🚀 **DevOps / CloudOps Engineer** — AWS · CI/CD · Infrastructure as Code · Observability · AIOps
 
-I build and operate cloud infrastructure that's automated, observable, and
-resilient. Currently at **Coforge** (Virgin Australia account), with a focus on
-energy-sector and cloud platforms. I like turning "it works on my machine" into
-"it's monitored, alerted, and self-healing in production."
+I build and operate cloud infrastructure that's automated, observable, and resilient. Currently at **Coforge** (Virgin Australia account), with a focus on energy-sector and cloud platforms. I like turning "it works on my machine" into "it's monitored, alerted, and self-healing in production."
 
 ---
 
 ## 🛠️ Tech Stack
 
-`AWS` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD (GitHub Actions)` ·
-`Python` · `Bash` · `Prometheus / Grafana` · `Linux` · `AIOps / MLOps`
+`AWS` · `Azure` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD (GitHub Actions)` · `Python` · `Bash` · `Prometheus / Grafana` · `Linux` · `AIOps / MLOps`
 
 ---
 
 ## 📌 Featured Projects
 
 | Project | What it shows |
-|---------|---------------|
+|---|---|
 | [🤖 aiops-log-anomaly-detector](https://github.com/shivamtripathi599/aiops-log-anomaly-detector) | AIOps: unsupervised ML log anomaly detection (IsolationForest) |
 | [☁️ cloudops-infra-toolkit](https://github.com/shivamtripathi599/cloudops-infra-toolkit) | CloudOps CLI: cost reporting, Docker health, safe k8s remediation |
 | [⚙️ github-actions-ci-templates](https://github.com/shivamtripathi599/github-actions-ci-templates) | Reusable CI/CD workflows (Python, Docker, Terraform, k8s) |
@@ -38,8 +34,9 @@ energy-sector and cloud platforms. I like turning "it works on my machine" into
 
 ## 📫 Connect
 
-- 📧 tripathi.shivam599@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/) *(update this link)*
+- 🌐 [Portfolio Website](https://www.shivamtripathi.tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-tripathi-825985158)
+- 📧 [tripathi.shivam599@gmail.com](mailto:tripathi.shivam599@gmail.com)
 
 ---
 
