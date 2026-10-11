@@ -16,11 +16,11 @@ I build and operate cloud infrastructure that's automated, observable, and resil
 
 | Project | What it shows |
 |---|---|
+| [🧠 personal-ai-agent-platform](https://github.com/shivamtripathi599/personal-ai-agent-platform) | Edge AI: self-hosted quantized LLM agent platform on Raspberry Pi 5 |
 | [🤖 aiops-log-anomaly-detector](https://github.com/shivamtripathi599/aiops-log-anomaly-detector) | AIOps: unsupervised ML log anomaly detection (IsolationForest) |
 | [☁️ cloudops-infra-toolkit](https://github.com/shivamtripathi599/cloudops-infra-toolkit) | CloudOps CLI: cost reporting, Docker health, safe k8s remediation |
 | [⚙️ github-actions-ci-templates](https://github.com/shivamtripathi599/github-actions-ci-templates) | Reusable CI/CD workflows (Python, Docker, Terraform, k8s) |
 | [📊 observability-stack](https://github.com/shivamtripathi599/observability-stack) | Prometheus + Grafana + Alertmanager Docker Compose stack |
-| [🚗 college_project](https://github.com/shivamtripathi599/college_project) | OpenCV + Tesseract license-plate recognition |
 
 ---
 
